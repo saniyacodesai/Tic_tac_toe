@@ -1,12 +1,15 @@
-# 🎮 Tic Tac Toe (Python)
+# 🌸✨ Tic Tac Toe ✨🌸
 
-Simple 2-player **Tic Tac Toe** game in the terminal, made with pure Python.  
-No extra libraries, just fun.
+A tiny lil’ **Tic Tac Toe** game in Python 🐍💕  
+Play with your bestie in the terminal 🎮
 
 ---
 
-## ▶️ Play
-```bash
-git clone https://github.com/<your-username>/tic-tac-toe-python.git
-cd tic-tac-toe-python
-python tic_tac_toe.py
+## 🌼 How to Play: 
+* Players take turns as ❌ and ⭕
+
+* Input your move as row col (example: 1 3)
+
+* First to get 3 in a row wins 🏆
+
+* If the board fills up with no winner → it’s a cozy draw 🤝
